@@ -27,10 +27,14 @@
 [![Paper](https://img.shields.io/badge/ISPRS_JPRS-Paper-orange.svg)](https://xxx)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/erenzhou/DVGBench)
 
+<p align="center">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+</p>
+
 </div>
 
 <p align="center">
-    <img src="images/demo1.gif" width=100%>
+    <img src="images/demo1.gif" width=60%>
 </p>
 
 
@@ -96,7 +100,7 @@ reward to enhance the quality of the model’s implicit-to-explicit conversion t
 </p>
 
 <p align="center">
-  <img src="images/analysis3.png" width=100%>
+  <img src="images/analysis3.png" width=60%>
 </p>
 
 
@@ -122,35 +126,21 @@ Two examples used to demonstrate the impact of the I2E-CoT mechanism on image at
 </p>
 
 
-
 ## 🎬 Demo
 
 <p align="center">
-    <img src="images/demo2.gif" width=100%>
+    <img src="images/demo2.gif" width=60%>
 </p>
 <p align="center">
-    <img src="images/demo3.gif" width=100%>
+    <img src="images/demo3.gif" width=60%>
 </p>
 <p align="center">
-    <img src="images/demo4.gif" width=100%>
+    <img src="images/demo4.gif" width=60%>
 </p>
 <p align="center">
-    <img src="images/demo5.gif" width=100%>
+    <img src="images/demo5.gif" width=60%>
 </p>
 
-
-    Jue Chen<sup>1</sup>&emsp;
-    Zilun Zhang<sup>2</sup>&emsp;
-    Penghui Huang<sup>3</sup>&emsp;
-    Ran Ding<sup>3</sup>&emsp;
-    Zhentao Zou<sup>3</sup>&emsp;
-    PengFei Gao<sup>4</sup>&emsp;
-    Yuchen Wei<sup>4</sup>&emsp;
-    Ke Li<sup>4</sup>&emsp;
-    <a href='https://yangxue.site/' target='_blank'>Xue Yang</a><sup>3</sup>&emsp;
-    <a href='https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=53&infoid=66' target='_blank'>Jiang Xue</a><sup>3</sup>&emsp;
-    Hongxin Yang<sup>1</sup>&emsp;
-    Jonathan Li<sup>1</sup>&emsp;
 
 ## 📜 Citation
 ```bibtex
