@@ -33,11 +33,6 @@
 
 </div>
 
-<p align="center">
-    <img src="images/demo1.gif" width=50%>
-</p>
-
-
 ---
 
 ## 📢 Latest Updates
