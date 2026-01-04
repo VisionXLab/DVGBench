@@ -39,6 +39,7 @@
 
 - **[2026.01.04]** 🚀🚀 We have released the evaluation code and benchmark (test set).
 - **[2026.01.02]** 🎉🎉 Accepted by ISPRS JPRS 2026.
+- **[2026.01.01]** [Click](https://github.com/zytx121/Awesome-RS-VL-Data) for the latest trends in **Remote Sensing Vision-Language Datasets and Models**.
 
 ---
 
