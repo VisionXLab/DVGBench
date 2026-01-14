@@ -145,9 +145,8 @@ Two examples used to demonstrate the impact of the I2E-CoT mechanism on image at
   journal={ISPRS Journal of Photogrammetry and Remote Sensing}, 
   title={DVGBench: Implicit-to-Explicit Visual Grounding Benchmark in UAV Imagery with Large Vision-Language Models}, 
   year={2026},
-  volume={},
-  number={},
-  pages={}
+  volume={232C},
+  pages={831-847}
 }
 ```
 
