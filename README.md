@@ -23,7 +23,7 @@
     <sup>4</sup>Information Engineering University&emsp;
 </div>
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](http://arxiv.org/abs/xxx)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2601.00998)
 [![Paper](https://img.shields.io/badge/ISPRS_JPRS-Paper-orange.svg)](https://xxx)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/collections/erenzhou/dvgbench)
 
@@ -145,9 +145,8 @@ Two examples used to demonstrate the impact of the I2E-CoT mechanism on image at
   journal={ISPRS Journal of Photogrammetry and Remote Sensing}, 
   title={DVGBench: Implicit-to-Explicit Visual Grounding Benchmark in UAV Imagery with Large Vision-Language Models}, 
   year={2026},
-  volume={},
-  number={},
-  pages={}
+  volume={232C},
+  pages={831-847}
 }
 ```
 
